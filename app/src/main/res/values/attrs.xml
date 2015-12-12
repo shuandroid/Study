@@ -15,4 +15,20 @@
         <attr name="fill_color" format="color" />
         <attr name="stroke_width" format="dimension"/>
     </declare-styleable>
+
+    <declare-styleable name="WechatTab">
+        <attr name="pstsIndicatorColorWe" format="color" />
+        <attr name="pstsUnderlineColorWe" format="color" />
+        <attr name="pstsDividerColorWe" format="color" />
+        <attr name="pstsIndicatorHeightWe" format="dimension" />
+        <attr name="pstsUnderlineHeightWe" format="dimension" />
+        <attr name="pstsDividerPaddingWe" format="dimension" />
+        <attr name="pstsTabPaddingLeftRightWe" format="dimension" />
+        <attr name="pstsScrollOffsetWe" format="dimension" />
+        <attr name="pstsTabBackgroundWe" format="reference" />
+        <attr name="pstsShouldExpandWe" format="boolean" />
+        <attr name="pstsTextAllCapsWe" format="boolean" />
+    </declare-styleable>
+
+
 </resources>
