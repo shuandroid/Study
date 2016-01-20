@@ -18,4 +18,5 @@
     <string name="hour">时</string>
     <string name="minute">分</string>
     <string name="second">秒</string>
+    <string name="title_activity_main_tab">MainTabActivity</string>
 </resources>
